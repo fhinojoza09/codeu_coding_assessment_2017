@@ -14,7 +14,7 @@
 
 package com.google.codeu.codingchallenge;
 
-import java util.ArrayList;
+import java.util.ArrayList;
 import java.util.Collection;
 
 final class MyJSON implements JSON {
